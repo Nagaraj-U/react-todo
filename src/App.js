@@ -1,10 +1,10 @@
-import React from "react"
+import React from "react";
 import Grid from "./components/TaskCategoryGrid/Grid";
 import Routes from "./Routes";
 function App() {
   return (
     <div>
-        <Routes />
+      <Routes />
     </div>
   );
 }
